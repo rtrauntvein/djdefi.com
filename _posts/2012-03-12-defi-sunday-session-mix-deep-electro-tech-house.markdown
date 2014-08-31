@@ -3,18 +3,6 @@ layout: post
 status: publish
 published: true
 title: DeFi Sunday Session Mix - Deep Electro Tech House
-author:
-  display_name: DeFi
-  login: admin
-  email: djdefi@gmail.com
-  url: http://djdefy.com
-author_login: admin
-author_email: djdefi@gmail.com
-author_url: http://djdefy.com
-wordpress_id: 468
-wordpress_url: http://djdefy.com/blog/?p=468
-date: '2012-03-12 10:31:31 -0700'
-date_gmt: '2012-03-12 18:31:31 -0700'
 categories:
 - Mixtapes
 tags:

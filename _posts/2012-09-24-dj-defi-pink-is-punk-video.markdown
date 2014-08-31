@@ -3,18 +3,6 @@ layout: post
 status: publish
 published: true
 title: DJ DeFi - Pink is Punk (Video)
-author:
-  display_name: DeFi
-  login: admin
-  email: djdefi@gmail.com
-  url: http://djdefy.com
-author_login: admin
-author_email: djdefi@gmail.com
-author_url: http://djdefy.com
-wordpress_id: 524
-wordpress_url: http://djdefi.com/blog/?p=524
-date: '2012-09-24 22:15:51 -0700'
-date_gmt: '2012-09-25 06:15:51 -0700'
 categories:
 - Posts
 tags:

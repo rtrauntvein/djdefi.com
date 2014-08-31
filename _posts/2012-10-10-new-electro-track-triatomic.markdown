@@ -3,17 +3,6 @@ layout: post
 status: publish
 published: true
 title: New Electro Track - Triatomic
-author:
-  display_name: DeFi
-  login: admin
-  email: djdefi@gmail.com
-  url: http://djdefy.com
-author_login: admin
-author_email: djdefi@gmail.com
-author_url: http://djdefy.com
-wordpress_id: 527
-wordpress_url: http://djdefi.com/blog/?p=527
-date: '2012-10-10 22:26:22 -0700'
 date_gmt: '2012-10-11 06:26:22 -0700'
 categories:
 - Posts

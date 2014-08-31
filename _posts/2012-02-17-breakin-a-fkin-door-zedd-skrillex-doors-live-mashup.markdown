@@ -2,19 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Breakin' a F**kin' Door [Zedd + Skrillex + Doors] Live Mashup
-author:
-  display_name: DeFi
-  login: admin
-  email: djdefi@gmail.com
-  url: http://djdefy.com
-author_login: admin
-author_email: djdefi@gmail.com
-author_url: http://djdefy.com
-wordpress_id: 416
-wordpress_url: http://djdefy.com/blog/?p=416
-date: '2012-02-17 12:35:31 -0800'
-date_gmt: '2012-02-17 20:35:31 -0800'
+title: Breakin' a F**kin' Door [Zedd + Skrillex + Doors] Mashup
 categories:
 - Posts
 tags: []

@@ -3,18 +3,6 @@ layout: post
 status: publish
 published: true
 title: New Mix - DJ DeFi - Brolectrostep
-author:
-  display_name: DeFi
-  login: admin
-  email: djdefi@gmail.com
-  url: http://djdefy.com
-author_login: admin
-author_email: djdefi@gmail.com
-author_url: http://djdefy.com
-wordpress_id: 378
-wordpress_url: http://djdefy.com/blog/?p=378
-date: '2012-01-23 09:20:58 -0800'
-date_gmt: '2012-01-23 17:20:58 -0800'
 categories:
 - Posts
 tags:
