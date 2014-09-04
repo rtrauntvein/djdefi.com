@@ -1,27 +1,23 @@
 # Build Environment
 build_environment: Ubuntu 12.04
  
- # language setting
-language: php
-  # php tag
-php:
- - 5.3
- - 5.4
- - 5.5
- - 5.6
- - hhvm
- 
+language: node_js
+
+before_install:
+  - gem install liquid -v 2.5.1 --no-rdoc --no-ri
+  - gem install jekyll -v 1.0.2 --no-rdoc --no-ri
+  - gem install rdiscount -v 1.6.8 --no-rdoc --no-ri
+
+script:
+  - ./node_modules/.bin/mocha test/test.metadata.js
+  - jekyll build
+
 # only build when certain Git branches are updated
 branches:
   only:
     - gh-pages
     - master
 
-before_script:
-  - mkdir -p shippable/codecoverage
-
-script: php -l
- 
 # Notification
 notifications:
   email:
