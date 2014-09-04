@@ -1,6 +1,3 @@
-# Build Environment
-build_environment: Ubuntu 12.04
- 
 language: node_js
 
 before_install:
@@ -11,17 +8,3 @@ before_install:
 script:
   - ./node_modules/.bin/mocha test/test.metadata.js
   - jekyll build
-
-# only build when certain Git branches are updated
-branches:
-  only:
-    - gh-pages
-    - master
-
-# Notification
-notifications:
-  email:
-    recipients:
-      - djdefi@gmail.com
-    on_success: always
-    on_failure: change
