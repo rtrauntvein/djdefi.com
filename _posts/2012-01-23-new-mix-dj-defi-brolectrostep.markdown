@@ -18,7 +18,7 @@ tags:
 - datsik
 comments: []
 ---
-<p>Mixed on Traktor Scratch Pro 2 with a Korg nanoKontrol. I&Acirc;&nbsp;Have been working on some new mappings, to make better use of all that Traktor has to offer. Getting there, still &Acirc;&nbsp;bunch I want to do to improve the mapping.</p>
+<p>Mixed on Traktor Scratch Pro 2 with a Korg nanoKontrol. I have been working on some new mappings, to make better use of all that Traktor has to offer. Getting there, still a bunch I want to do to improve the mapping.</p>
 <p>Downloadable: <a title="http:&#47;&#47;soundcloud.com&#47;djdefi&#47;dj-defi-brolectrostep-mix" href="http:&#47;&#47;soundcloud.com&#47;djdefi&#47;dj-defi-brolectrostep-mix" target="_blank">http:&#47;&#47;soundcloud.com&#47;djdefi&#47;dj-defi-brolectrostep-mix<&#47;a></p>
 <p>Having trouble with Mixcloud and track list, should hopefully have it eventually...</p>
 <p>&nbsp;</p>
