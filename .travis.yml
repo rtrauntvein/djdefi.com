@@ -1,4 +1,5 @@
 language: node_js
+sudo: false
 
 before_install:
   - gem install liquid -v 2.5.1 --no-rdoc --no-ri
