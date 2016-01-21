@@ -1,11 +1,20 @@
-language: node_js
-sudo: false
+language: ruby
+rvm:
+- 2.1
 
-before_install:
-  - gem install liquid -v 2.5.1 --no-rdoc --no-ri
-  - gem install jekyll -v 1.0.2 --no-rdoc --no-ri
-  - gem install rdiscount -v 1.6.8 --no-rdoc --no-ri
+before_script:
+ - chmod +x ./script/cibuild # or do this locally and commit
 
-script:
-  - jekyll build
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: ./script/cibuild
 
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
