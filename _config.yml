@@ -8,3 +8,6 @@ twitter_username: djdefi
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
