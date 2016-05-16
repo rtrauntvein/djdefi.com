@@ -19,4 +19,6 @@ categories: []
 tags: []
 comments: []
 ---
-<p><iframe width="200" height="250" src="&#47;&#47;www.mixcloud.com&#47;widget&#47;follow&#47;?u=http%3A%2F%2Fwww.mixcloud.com%2Fdeejaydefi%2F" frameborder="0"><&#47;iframe></p>
+<p>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fdeejaydefi%2F&hide_cover=1&light=1" frameborder="0"></iframe>
+</p>
