@@ -1,5 +1,5 @@
 # Site settings
-title: DJ DeFi 
+title: DJ DeFi
 description: > # this means to ignore newlines until "baseurl:"
   DJ DeFi west coast Drum and Bass
 baseurl: "" # the subpath of your site, e.g. /blog/
