@@ -16,12 +16,12 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
     - name: Setup Ruby for use with actions
-      uses: actions/setup-ruby@v1.0.0
+      uses: actions/setup-ruby@master
     - name: cibuild
       run: ./script/cibuild
 
     - name: Jekyll Screenshot
-      uses: hakierspejs/jekyll-screenshot-github-action@1.0
+      uses: hakierspejs/jekyll-screenshot-github-action@master
     - uses: actions/upload-artifact@v1
       with:
        name: screenshot
