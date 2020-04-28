@@ -19,10 +19,3 @@ jobs:
       uses: actions/setup-ruby@master
     - name: cibuild
       run: ./script/cibuild
-
-    - name: Jekyll Screenshot
-      uses: hakierspejs/jekyll-screenshot-github-action@master
-    - uses: actions/upload-artifact@v1
-      with:
-       name: screenshot
-       path: /home/runner/work/_temp/_github_home/screenshot.png
