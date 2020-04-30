@@ -3,6 +3,4 @@ DJ DeFi Website
 
 https://djdefi.com
 
-Tremendously awesome website. The best website.
-
-[![Build Status](https://travis-ci.org/djdefi/djdefi.com.svg?branch=gh-pages)](https://travis-ci.org/djdefi/djdefi.com)
+![CI](https://github.com/djdefi/djdefi.com/workflows/CI/badge.svg)
