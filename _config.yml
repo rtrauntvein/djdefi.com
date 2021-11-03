@@ -8,5 +8,7 @@ url: "https://djdefi.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+remote_theme: andrewbanchich/highlights-jekyll-theme
+
 plugins:
   - jekyll-seo-tag
