@@ -10,5 +10,8 @@ markdown: kramdown
 
 remote_theme: andrewbanchich/highlights-jekyll-theme
 
+twitter_url: https://twitter.com/djdefi
+github_url: https://github.com/djdefi
+
 plugins:
   - jekyll-seo-tag
